@@ -1,0 +1,26 @@
+{
+  "name": "week04_express",
+  "version": "1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "tests": "echo 'NO TESTS FOUND"
+  },
+  "keywords": [
+    "express",
+    "doubt",
+    "GET params vs query",
+    "node vs nodemon",
+    "static files"
+  ],
+  "author": "Becky Pollard",
+  "license": "CC0-1.0",
+  "description": "web server express",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
