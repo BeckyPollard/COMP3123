@@ -1,0 +1,20 @@
+{
+  "name": "week06_mongoose",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Becky Pollard",
+  "license": "ISC",
+  "description": "Set up connection of DB mongo server to web service on express!!!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeckyPollard/COMP3123"
+  },
+  "dependencies": {
+    "mongoose": "8.19.1",
+    "express": "5.1.0"
+  }
+}
